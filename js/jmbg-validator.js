@@ -71,7 +71,7 @@ function check() {
         return;
     }
 
-    output.innerHTML = "Vas broj nije ispravan...";
+    output.innerHTML = "Vas broj je ispravan...";
 
 
 
